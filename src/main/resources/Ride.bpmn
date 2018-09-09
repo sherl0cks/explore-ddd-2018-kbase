@@ -45,7 +45,7 @@
       <bpmn2:dataOutput id="_BF4C5F1F-EF95-4E3B-A102-690D9BC0CED2_dataOutputX" drools:dtype="String" itemSubjectRef="__BF4C5F1F-EF95-4E3B-A102-690D9BC0CED2_dataOutputXItem" name="data"/>
       <bpmn2:dataOutputAssociation id="__F0KqLRmEeiWisyas8DCeQ">
         <bpmn2:sourceRef>_BF4C5F1F-EF95-4E3B-A102-690D9BC0CED2_dataOutputX</bpmn2:sourceRef>
-        <bpmn2:targetRef>var_Rides.Ride_data</bpmn2:targetRef>
+        <bpmn2:targetRef>data</bpmn2:targetRef>
       </bpmn2:dataOutputAssociation>
       <bpmn2:outputSet id="__F0Kp7RmEeiWisyas8DCeQ">
         <bpmn2:dataOutputRefs>_BF4C5F1F-EF95-4E3B-A102-690D9BC0CED2_dataOutputX</bpmn2:dataOutputRefs>
