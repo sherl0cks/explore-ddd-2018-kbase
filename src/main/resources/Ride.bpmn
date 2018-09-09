@@ -17,7 +17,7 @@
       </bpmn2:extensionElements>
       <bpmn2:incoming>_260DF621-0F13-4A86-9CBD-B8079EBD5952</bpmn2:incoming>
       <bpmn2:outgoing>_8E8EC079-C64C-44F9-ABC1-00B050ECE8AA</bpmn2:outgoing>
-      <bpmn2:script><![CDATA[System.out.println("2");]]></bpmn2:script>
+      <bpmn2:script><![CDATA[System.out.println(data);]]></bpmn2:script>
     </bpmn2:scriptTask>
     <bpmn2:endEvent id="_2376610B-C4EC-4FDC-9675-3F7798B84B42">
       <bpmn2:documentation id="__F0Ko7RmEeiWisyas8DCeQ"><![CDATA[]]></bpmn2:documentation>
@@ -36,7 +36,7 @@
       </bpmn2:extensionElements>
       <bpmn2:incoming>_7CF8E1C5-0946-4402-807A-E7F6AC78A35A</bpmn2:incoming>
       <bpmn2:outgoing>_C13CD861-F8F9-457B-B2C2-3F344C84DE8E</bpmn2:outgoing>
-      <bpmn2:script><![CDATA[System.out.println("1");]]></bpmn2:script>
+      <bpmn2:script><![CDATA[System.out.println(data);]]></bpmn2:script>
     </bpmn2:scriptTask>
     <bpmn2:intermediateCatchEvent id="_BF4C5F1F-EF95-4E3B-A102-690D9BC0CED2">
       <bpmn2:documentation id="__F0KprRmEeiWisyas8DCeQ"><![CDATA[]]></bpmn2:documentation>
